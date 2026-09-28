@@ -8,3 +8,4 @@ PROJECT ATLAS — QUICK START | HARBORNESTDIGITAL
 6. Desktop files work offline. To add to a phone home screen, host the app over HTTPS first; a public demo is separate from your private customer copy. On mobile Safari use Share > Add to Home Screen; on Chrome use its Install/Add to Home Screen menu when available.
 
 This is a browser app, not a multi-user cloud service. No login, automatic reminders or shared team database are included. If an import fails, check that the JSON comes from Project Atlas. For help contact HarborNestDigital through your Etsy order.
+
